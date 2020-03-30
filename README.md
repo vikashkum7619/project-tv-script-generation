@@ -29,4 +29,3 @@ problem_unittests.py - Unit tests provided by Udacity.
 
 helper.py - Help functions provided by Udacity.
 
-data/simpsons/moes_tavern_lines.txt - Some lines from a chapter of "The Simpsons" that will be used as input for the generation of a new scipt.
